@@ -1,0 +1,25 @@
+main: de.deniz.main.Main
+name: SuRo
+version: '1.12'
+author: denizlp 
+commands:
+   acidrain:
+   	description: "Test"
+   groups:
+   groupscmd:
+   disq:
+   start:
+   startcmd:
+   cancel:
+   mitspieler:
+   pause:
+   setup:
+   getloc:
+   tele:
+   intro:
+   REAL:
+   vanish:
+   spec:
+   v:
+   zwei:
+   alert:
