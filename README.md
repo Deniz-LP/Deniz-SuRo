@@ -24,7 +24,7 @@ Ein Minecraft-Plugin für ein Survival-Rollenspiel-Projekt (SuRo).
 - Die Konfiguration erfolgt über die automatisch generierte `config.yml`.
 - Spieler und Ränge werden persistent gespeichert.
 
-- Erste Nutzung: "/goupscmd <Username> gamemmaster" für die Konsole, alle weiteren Commands können ingame ausgeführt werden.
+- Erste Nutzung: "/goupscmd <Username> gamemaster" für die Konsole, alle weiteren Commands können ingame ausgeführt werden.
 
 ## Kommandos
 
