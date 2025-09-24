@@ -51,8 +51,8 @@ Ein Minecraft-Plugin für ein Survival-Rollenspiel-Projekt (SuRo).
 - Leiten kann dies nur ein "Gamemaster". Diese Rolle kann durch einen Command in der Konsole oder über die config.yml einem bzw. mehreren Spielern zugewiesen werden.
 - Als Spec(tator) kann man nur zuschauen, als "Default" spielen. Jeder Spieler ohne Rolle wird sofort vom Server gekickt.
 
-- Dies ist nicht die fertige Version. Commands wurden auf Wunsch einiger YouTuber/Streamer hinzugefügt, werden jedoch aufgrund des Zufallprinzips (AcidRain, 2SpielerKampf)
-  vermutlich verworfen. Einige Funktionen sind auch noch nicht Betriebsbereit, werden überarbeitet oder gar neu hinzugefügt.
+- **Dies ist nicht die fertige Version. Commands wurden auf Wunsch einiger YouTuber/Streamer hinzugefügt, werden jedoch aufgrund des Zufallprinzips (AcidRain, 2SpielerKampf)
+  vermutlich verworfen. Einige Funktionen sind auch noch nicht Betriebsbereit, werden überarbeitet oder gar neu hinzugefügt.**
 
 ## Lizenz
 
